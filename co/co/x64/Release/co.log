@@ -1,0 +1,23 @@
+﻿  gra.h
+  klocki.h
+  main.cpp
+C:\Users\Kuba\infa\co\co\main.cpp(13,51): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\Kuba\infa\co\co\main.cpp(13,51): warning C4244:         with
+C:\Users\Kuba\infa\co\co\main.cpp(13,51): warning C4244:         [
+C:\Users\Kuba\infa\co\co\main.cpp(13,51): warning C4244:             T=unsigned int
+C:\Users\Kuba\infa\co\co\main.cpp(13,51): warning C4244:         ]
+C:\Users\Kuba\infa\co\co\main.cpp(13,31): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\Kuba\infa\co\co\main.cpp(13,31): warning C4244:         with
+C:\Users\Kuba\infa\co\co\main.cpp(13,31): warning C4244:         [
+C:\Users\Kuba\infa\co\co\main.cpp(13,31): warning C4244:             T=unsigned int
+C:\Users\Kuba\infa\co\co\main.cpp(13,31): warning C4244:         ]
+C:\Users\Kuba\infa\co\co\main.cpp(36,60): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\Kuba\infa\co\co\main.cpp(36,60): warning C4244:         with
+C:\Users\Kuba\infa\co\co\main.cpp(36,60): warning C4244:         [
+C:\Users\Kuba\infa\co\co\main.cpp(36,60): warning C4244:             T=unsigned int
+C:\Users\Kuba\infa\co\co\main.cpp(36,60): warning C4244:         ]
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 544 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  co.vcxproj -> C:\Users\Kuba\infa\co\x64\Release\co.exe
